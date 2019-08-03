@@ -52,3 +52,29 @@ body {
   width: 60%;
   transform: rotate(25deg);
 }
+
+
+
+#features {
+  line-height: 2rem;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.feature-img {
+  margin: 0 auto 2rem;
+  color: #ef8172;
+}
+
+.feature-img:hover {
+  color: #ff4c68;
+}
+
+.features {
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.feature-description {
+  color: #8f8f8f;
+}
