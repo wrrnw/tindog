@@ -105,3 +105,14 @@ body {
   width: 15%;
   margin: auto 7px;
 }
+
+/* pricing section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: padding: 3% 2%;
+}
