@@ -15,6 +15,11 @@ h1 {
   line-height: 1.5;
 }
 
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
 
 body {
   font-family: "Montserrat";
@@ -77,4 +82,29 @@ body {
 
 .feature-description {
   color: #8f8f8f;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+  margin: auto 7px;
+
 }
